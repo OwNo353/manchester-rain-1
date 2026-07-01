@@ -1,8 +1,8 @@
 # manchester-rain-1
 
-About Manchester's heat.
+About Manchester's weather.
 
-It is not cool today and the instructor was nice.
+It is not cold today and the instructor was nice.
 
 
 
