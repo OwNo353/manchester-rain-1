@@ -2,7 +2,7 @@
 
 About Manchester's rain.
 
-It is not cool today and the instructor was nice.
+It is not chill today and the instructor was nice.
 
 
 
