@@ -1,6 +1,6 @@
 # manchester-rain-1
 
-About Manchester's rain.
+About Manchester's weather.
 
 It is not chill today and the instructor was nice.
 
